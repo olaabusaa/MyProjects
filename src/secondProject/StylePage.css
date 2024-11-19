@@ -1,0 +1,60 @@
+.container{
+    /*border: 3px solid red;*/
+    display: block;
+}
+.Div1{
+    width: 500px;
+    height: 350px;
+    /*border: 3px solid green;*/
+    margin: auto;
+    margin-top: 80px;
+}
+.Div2{
+    width: 1200px;
+    height: 700px;
+    /*border: 3px solid black;*/
+    margin: auto;
+    margin-top: -60px;
+
+
+}
+
+.header{
+    text-align: center;
+    font-family:"Brush Script MT";
+    font-size: 55pt;
+    color:#0E1E2D;
+}
+input{
+    height: 40px;
+    width:400px;
+    border: 3px solid grey;
+    background-color:lightsteelblue;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: -15px;
+    margin-left: auto;
+
+}
+button{
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    font-family:"Akhbar MT";
+   background-color:#0E1E2D;
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    margin: auto;
+
+}
+.D1{
+    display: inline;
+    padding: 30px;
+
+}
+.btnSearch{
+    height: 48px;
+    width: 80px;
+    display:inline;
+    margin-left: -10px;
+    margin-top: -15px;
+}

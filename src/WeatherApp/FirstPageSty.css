@@ -1,0 +1,139 @@
+
+body{
+    background-image:url("Image/ba.jpg");
+}
+.d1{
+    /*border: 1px solid red;*/
+    position: relative;
+}
+.d2{
+    /*border: 1px solid black;*/
+    height:200px;
+    width: 600px;
+    margin-left:27%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+.d3 {
+    border: 3px solid silver;
+    height: 400px;
+    width: 700px;
+    margin-left:23%;
+    position: absolute;
+    margin-top:180px;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px silver;
+}
+
+.inputCity{
+
+    height: 35px;
+    width: 470px;
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 100px;
+    border:1px solid silver;
+
+}
+.sunphoto{
+    color:orange;
+    height: 260px;
+    width:260px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.NewYorkDiv1,.ItalyDiv1{
+     display: flex;
+    justify-content: center;
+    position: relative;
+}
+.NewYorkDiv2,.ItalyDiv2{
+    /*border: 2px solid red;*/
+    width:300px;
+    height: 300px;
+}
+.NewYorkDiv3,.ItalyDiv3{
+    /*border: 2px solid red;*/
+    width:300px;
+    height: 300px;
+    margin-top: 50px;
+
+}
+p{
+    font-size: 20px;
+    color: darkolivegreen;
+    font-weight: bold;
+
+}
+.wednsday{
+    border: 2px solid silver;
+    width:120px;
+    height: 130px;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: -500px;
+    border-radius: 40px 40px 40px 40px ;
+    box-shadow: 0px 0px 10px silver;
+    display: flex;
+    justify-content: center;
+
+}
+.thursday{
+    border: 2px solid silver;
+    width:120px;
+    height: 130px;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: -170px;
+    border-radius: 40px 40px 40px 40px ;
+    box-shadow: 0px 0px 10px silver;
+    display: flex;
+    justify-content: center;
+}
+.friday{
+    border: 2px solid silver;
+    width:120px;
+    height: 130px;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 160px;
+    border-radius: 40px 40px 40px 40px ;
+    box-shadow: 0px 0px 10px silver;
+    display: flex;
+    justify-content: center;
+}
+.sunday{
+    border: 2px solid silver;
+    width:120px;
+    height: 130px;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 500px;
+    border-radius: 40px 40px 40px 40px ;
+    box-shadow: 0px 0px 10px silver;
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    height: 80px;
+    width: 80px;
+    margin-top: 30px;
+    margin-left: -80px;
+}
+.Temp{
+    margin-top: 100px ;
+    margin-left:-55px ;
+    color: black;
+
+}
+h4{
+   margin-left: -10px;
+}
+.btn{
+    height: 40px;
+    width: 70px;
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 100px;
+    border:1px solid silver;
+    margin-left: -70px;
+}

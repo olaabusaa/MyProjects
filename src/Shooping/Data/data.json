@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name":"computer",
+    "price": 3000,
+    "imgUrl": "https://m.media-amazon.com/images/I/71snht4ZY+L.jpg"
+  },
+  {
+    "id": 2,
+    "name":"banan",
+    "price": 200,
+    "imgUrl": "https://www.gsklub.cz/wp-content/uploads/magazin-1000x6001-4-780x453.jpg"
+  },
+  {
+    "id": 3,
+    "name":"car",
+    "price": 40000,
+    "imgUrl": "https://www.lgt.com/resource/image/34316/landscape_ratio8x5/1380/863/296a8b9e720fff93ee69a3e40551a660/1C352F672B1CC8A265C4014CFDF94BC2/20-093-classic-car-racing-en.jpg"
+  },
+  {
+    "id": 4,
+    "name":"book",
+    "price": 5,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6rrRb0pd-FbCDnz-5IAjBCZjmYjrFRVmKFA&s"
+  }
+
+]
